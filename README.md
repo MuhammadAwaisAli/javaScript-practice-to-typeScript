@@ -15,7 +15,7 @@ npm version 8
  "npm i" command 
 
 # How to run the code 
-1. go to the question folder and run "ts-node index.ts" command 
+1. go to the root of the file question folder and run "ts-node index.ts" command 
 # OR
 2. If you want to run the file from main folder below is the example commands 
  ts-node .\Question_01\index.ts
