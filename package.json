@@ -1,0 +1,25 @@
+{
+  "name": "javascriptpractice",
+  "version": "1.0.0",
+  "description": "web 3.0 and metaverse first class javascript tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAwaisAli/javascriptPractice.git"
+  },
+  "author": "piaic95701",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadAwaisAli/javascriptPractice/issues"
+  },
+  "homepage": "https://github.com/MuhammadAwaisAli/javascriptPractice#readme",
+  "dependencies": {
+    "node": "^18.10.0",
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0",
+    "typescript": "^4.8.4"
+  }
+}
